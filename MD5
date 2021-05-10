@@ -1,7 +1,7 @@
-95717de05d617f7e6ed1818e8edd2541 *DESCRIPTION
+6d2fe94b718a2452f52de3909b0d6ce1 *DESCRIPTION
 435f24aaa47b17d0ec3e5968684dba68 *NAMESPACE
 022484369518ef1ee1e709093eee4dde *R/dgood.R
-e30221bf058cfa7ac852da63e135d973 *R/glm.good.R
+634bf99b1399af37317734ff13ba9b4e *R/glm.good.R
 cf9142348aeb451100cb3769c9c11770 *R/good-internal.R
 af599d2300887e76ba9e093458e8fd36 *R/pgood.R
 8fd2583a54afd7e2b668a2bc0efe3722 *R/polar.R
@@ -9,7 +9,7 @@ af599d2300887e76ba9e093458e8fd36 *R/pgood.R
 ee71b13da823b71c6ad6f0689ca41f64 *R/rgood.R
 887aa281f02558efdc3e4b4a068306a9 *data/polar.rda
 5456b7d287e510626eb3c0aabfe6aac6 *man/dgood.Rd
-dfd4ab0442157045d9c90f77b7ec498f *man/glm.good.Rd
+0c4dca957b1af21af6e9e480448c6d3f *man/glm.good.Rd
 26de54db8404e0610faf3f2b4dc63810 *man/pgood.Rd
 a02b4d3330eaa746dcd0a652983d2bf1 *man/polar.Rd
 b30eb7f8791421b83c66617cf0020d3b *man/predict.glm.good.Rd

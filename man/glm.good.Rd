@@ -41,12 +41,12 @@ provides the fitted values with the estimated model and optionally standard erro
 for a new data set.
 }
 \examples{
-data ( "polar" )
-mle <- glm.good ( cubnumber ~ 1 , link = "log", data = polar )
+strikes <- c ( rep ( 0, 46 ) , rep ( 1, 76 ) , rep ( 2, 24 ) , rep ( 3, 9 ) , rep ( 4, 1 )  )
+mle <- glm.good ( strikes ~ 1 , link = "log" )
 names ( mle )
 mle$coefficients
 mle$fitted.values
-mean ( polar$cubnumber )
+mean ( strikes )
 summary ( mle )
 predict ( mle , newdata = NULL , se.fit = TRUE )
 }
