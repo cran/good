@@ -7,7 +7,7 @@
 rgood ( n , z , s , th = 10^-6 )
 }
 \arguments{
-\item{n}{vector of number of observations to be generated}
+\item{n}{vector of number of observations to be generated, accounting for all possible combinations of parameters}
 
 \item{z}{vector of first parameter for the Good distribution}
 

@@ -31,7 +31,7 @@
 #' Computational Statistics & Data Analysis, 19: 461–473.
 #'
 #' Kulasekera, K.B. and Tonkyn, D. (1992). A new distribution with applications to survival
-#' dispersal anddispersion. Communication in Statistics - Simulation and Computation,
+#' dispersal and dispersion. Communication in Statistics - Simulation and Computation,
 #' 21: 499–518.
 #'
 #' Doray, L.G. and Luong, A. (1997). Efficient estimators for the good family.
@@ -51,7 +51,7 @@
 #' @importFrom plyr alply
 #'
 #' @examples
-#' # if n is not a non-negative interger, function returns NaN with a warning
+#' # if n is not a non-negative integer, function returns NaN with a warning
 #' rgood ( n = -100 , z = 0.5 , s = -3 )
 #'
 #' # if th is not positive, th is replaced by 1e-06 and a warning is provided
